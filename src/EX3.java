@@ -10,7 +10,7 @@ public class EX3 {
         double aliquota = 0;
         double deducao = 0;
 
-        System.out.println("Digite o valor do seu sálario: ");
+        System.out.print("Digite o valor do seu sálario: ");
         double salario = sc.nextDouble();
 
         if ( salario <= 2259.20){
